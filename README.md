@@ -11,6 +11,12 @@ This project was focused on analyzing the data for a fantasy game Heroes of Pymo
 * Most profitable items
 
 
+## Features
+
+* Data analysis with pandas
+* Summary statistics
+* Description of observable trends
+
 ## Built with 
 
 * Python
