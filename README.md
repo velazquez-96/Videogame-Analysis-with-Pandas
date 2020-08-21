@@ -23,3 +23,6 @@ This project was focused on analyzing the data for a fantasy game Heroes of Pymo
 
 ## Outcomes
 
+Observable trends
+
+![Image1.png](Images/Image1.png)
